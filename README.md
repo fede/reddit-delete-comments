@@ -1,5 +1,7 @@
 # reddit-delete-comments
-Silly node script to delete comments older than _days_
+Silly node script to delete comments older than _days_.
+
+The code is quite messy since it was done on an iPad with the web editor while spoofing the app.
 
 ## Setup
 Replace the variables accordingly
